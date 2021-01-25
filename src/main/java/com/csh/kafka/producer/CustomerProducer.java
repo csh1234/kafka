@@ -6,8 +6,11 @@ import java.util.Properties;
 
 public class CustomerProducer {
 
+    /**
+     * 联系idea
+     * @param args
+     */
     public static void main(String[] args) {
-
         //配置信息
         Properties props = new Properties();
         //集群
